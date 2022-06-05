@@ -18,3 +18,10 @@ I will do my best to become an FA developer.
 I am purposeful, I always achieve what I want.  
 I am able to quickly master new areas of knowledge, persistent, always achieve my goals, hardworking and responsible.  
 I have a clear organization of work and working hours. sociable. I know how to work in a team.
+___
+
+#### Education:
+Engineer in the gas and oil industry
+___
+#### English:
+A1
