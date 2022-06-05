@@ -1,1 +1,1 @@
-# https://github.com/Flashholio/rsschool-cv/blob/gh-pages/cv.md
+# https://flashholio.github.io/rsschool-cv/cv
