@@ -6,7 +6,6 @@
 __Phone:__ 8(927)028-25-04  
 __E-mail:__ Flashholio@mail.ru  
 __Telegram:__ @Flashholio
-___
 #### Briefly about myself:
 
 The beginning of my career is far from programming.  
