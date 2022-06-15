@@ -6,3 +6,29 @@
 * {
     box-sizing: border-box;
 }
+* {
+    margin: 0;
+    padding: 0;
+    }
+.container {
+    width: 100%;
+    max-width: 1024px; /*максимальная ширина может иметь другое значение*/
+    padding: 0 50px;
+    margin: 0 auto;
+  }
+  .logo {
+    float: left;
+  }
+  .name {
+    float: rig;
+  }
+  .nam {
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:inherit;
+    color: rgba(245, 199, 199, 0.795);
+  }
+  .contakt {
+    color: blue;
+  }
+  
