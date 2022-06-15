@@ -12,15 +12,17 @@
     }
 .container {
     width: 100%;
-    max-width: 1024px; /*максимальная ширина может иметь другое значение*/
-    padding: 0 50px;
+    padding: 0 10px;
     margin: 0 auto;
   }
   .logo {
     float: left;
   }
   .name {
-    float: rig;
+    float: left;
+    width: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
   }
   .nam {
     float: right;
