@@ -2,15 +2,15 @@
     font-family: 'Marvel-Regular';
     src: url("assets/fonts/Marvel-Regular.ttf");
     font-weight: 300;
-}
-* {
+  }
+  * {
     box-sizing: border-box;
-}
-* {
+  }
+  * {
     margin: 0;
     padding: 0;
     }
-.container {
+  .container {
     width: 100%;
     padding: 0 10px;
     margin: 0 auto;
