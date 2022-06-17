@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Marvel-Regular';
+    src: url("assets/fonts/Marvel-Regular.ttf");
+    font-weight: 300;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    }
+  .container {
+    width: 100%;
+    padding: 0 10px;
+    margin: 0 auto;
+  }
+  .logo {
+    float: left;
+  }
+  .name {
+    float: left;
+    width: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+  }
+  .nam {
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style:inherit;
+    color: rgba(245, 199, 199, 0.795);
+  }
+  .contakt {
+    color: blue;
+  }
+  
